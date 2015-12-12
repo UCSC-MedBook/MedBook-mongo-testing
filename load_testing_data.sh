@@ -1,8 +1,8 @@
 # load testing data into the db
 collectionimport ()
 {
-    echo "woohoo" $1
-    mongoimport --db MedBook --collection $1 --file $1.mongoexport
+    echo "database:testing" $1
+    mongoimport --db testing --collection $1 --file $1.mongoexport
 }
 
 collectionimport studies
