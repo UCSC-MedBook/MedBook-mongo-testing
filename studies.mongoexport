@@ -1,0 +1,1 @@
+{ "cbio_id" : "?", "id" : "prad_tcga", "type_of_cancer_id" : "prad", "name" : "NIH TCGA Prostate Cancer", "short_name" : "Prad TCGA", "description" : "Large NIH study of Prostate Cancer", "public" : true, "pmid" : "NULL", "citation" : "Schultz 2015", "collaborations" : [ "public" ], "tables" : [], "Sample_IDs" : [], "Patient_IDs" : [] }
