@@ -2,7 +2,7 @@
 collectionimport ()
 {
     echo "database:testing" $1
-    mongoimport --db testing --collection $1 --file $1.mongoexport
+    mongoimport --db MedBook --collection $1 --file $1.mongoexport
 }
 
 collectionimport studies
