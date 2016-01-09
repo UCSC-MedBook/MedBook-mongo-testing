@@ -9,6 +9,7 @@ collectionimport users
 collectionimport studies
 collectionimport collaboration
 collectionimport genes
+collectionimport jobs
 
 collectionimport contrasts
 collectionimport gene_expression

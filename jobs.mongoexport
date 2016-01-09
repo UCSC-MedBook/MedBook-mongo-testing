@@ -1,0 +1,1 @@
+{ "_id" : "ZMoezNcW2YFS8qs56", "name" : "ParseWranglerFile", "user_id" : "45Wx5KgCMqvSNBt5G", "args" : { "wrangler_file_id" : "e3qf7HLkF4KFiZvQw" }, "status" : "done", "timeout_length" : 604800000, "prerequisite_job_ids" : [], "date_created" : { "$date" : "2016-01-09T11:10:11.706-0500" }, "date_modified" : { "$date" : "2016-01-09T11:10:11.706-0500" }, "retry_count" : 0 }
