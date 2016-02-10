@@ -1,1 +1,1 @@
-{ "_id" : { "$oid" : "5660e6aa3b05d1711037df92" }, "name" : "testing", "description" : "A testing collaboration. All data here is fake", "isUnlisted" : true, "collaborators" : [], "administrators" : [ "testing@meteor.com" ] }
+{ "_id" : { "$oid" : "5660e6aa3b05d1711037df92" }, "name" : "testing", "description" : "A testing collaboration. All data here is fake", "isUnlisted" : true, "collaborators" : [ "user:testing@medbook.ucsc.edu", "user:admin@medbook.ucsc.edu" ], "administrators" : [ "user:admin@medbook.ucsc.com" ] }
