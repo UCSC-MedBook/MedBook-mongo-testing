@@ -11,5 +11,6 @@ collectionimport collaboration
 collectionimport genes
 collectionimport jobs
 
+collectionimport samples
 collectionimport contrasts
 collectionimport gene_expression
