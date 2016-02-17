@@ -7,7 +7,7 @@ collectionimport ()
 
 collectionimport users
 collectionimport studies
-collectionimport collaboration
+collectionimport collaborations
 collectionimport genes
 collectionimport jobs
 
