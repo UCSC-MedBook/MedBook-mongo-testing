@@ -7,9 +7,10 @@ collectionimport ()
 
 collectionimport users
 collectionimport studies
-collectionimport collaboration
+collectionimport collaborations
 collectionimport genes
 collectionimport jobs
 
+collectionimport samples
 collectionimport contrasts
-collectionimport gene_expression
+collectionimport expression3

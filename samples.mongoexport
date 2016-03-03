@@ -1,4 +1,4 @@
-{ "_id" : { "$oid" : "56b3f1daae8f85fbcf5fcb54" }, "study_label" : "prad_test", "sample_label" : "TCGA-EJ-5526-01", "patient_label" : "TCGA-EJ-5526", "gene_expression_loaded" : true, "gene_expression_collaborations" : [ "testing" ] }
-{ "_id" : { "$oid" : "56b3f490ae8f85fbcf5fcb55" }, "study_label" : "prad_test", "sample_label" : "TCGA-FC-A66V-01", "patient_label" : "TCGA-FC-A66V", "gene_expression_loaded" : true, "gene_expression_collaborations" : [ "testing" ] }
-{ "_id" : { "$oid" : "56b3f5f9ae8f85fbcf5fcb5a" }, "study_label" : "gbl_test", "sample_label" : "TCGA-EJ-A65G-01", "patient_label" : "TCGA-EJ-A65G", "gene_expression_loaded" : true, "gene_expression_collaborations" : [ "testing" ] }
-{ "_id" : { "$oid" : "56b3f60dae8f85fbcf5fcb5b" }, "study_label" : "gbl_test", "sample_label" : "TCGA-HC-A6HY-01", "patient_label" : "TCGA-HC-A6HY", "gene_expression_loaded" : false }
+{ "_id" : { "$oid" : "56b3f1daae8f85fbcf5fcb54" }, "study_label" : "prad_test", "sample_label" : "TCGA-EJ-5526-01", "patient_label" : "TCGA-EJ-5526" }
+{ "_id" : { "$oid" : "56b3f490ae8f85fbcf5fcb55" }, "study_label" : "prad_test", "sample_label" : "TCGA-FC-A66V-01", "patient_label" : "TCGA-FC-A66V" }
+{ "_id" : { "$oid" : "56b3f5f9ae8f85fbcf5fcb5a" }, "study_label" : "gbl_test", "sample_label" : "TCGA-EJ-A65G-01", "patient_label" : "TCGA-EJ-A65G" }
+{ "_id" : { "$oid" : "56b3f60dae8f85fbcf5fcb5b" }, "study_label" : "gbl_test", "sample_label" : "TCGA-HC-A6HY-01", "patient_label" : "TCGA-HC-A6HY" }

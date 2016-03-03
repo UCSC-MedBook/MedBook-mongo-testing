@@ -1,0 +1,2 @@
+{ "_id" : { "$oid" : "56d7b6f132638dbbf23bf893" }, "study_label" : "prad_test", "gene_label" : "AR", "quantile_counts_log" : [ 10, 300 ] }
+{ "_id" : { "$oid" : "56d7b6f932638dbbf23bf894" }, "study_label" : "prad_test", "gene_label" : "MYC", "quantile_counts_log" : [ 70, 50 ] }
